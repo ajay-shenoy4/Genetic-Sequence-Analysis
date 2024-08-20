@@ -1,35 +1,3 @@
-///////////////////////// TOP OF FILE COMMENT BLOCK ////////////////////////////
-//
-// Title:           Analysis of Genetic Sequences
-// Course:          CS 200, Summer 2024
-//
-// Author:          Ajay Shenoy
-// Email:           ashenoy3@wisc.edu
-// Lecturer's Name: Jim Williams
-//
-///////////////////////////////// CITATIONS ////////////////////////////////////
-//
-// No citations used.
-///////////////////////////////// REFLECTION ///////////////////////////////////
-//
-// 1. Describe the problem you wrote the program to solve: I wrote a program
-// to analyze and calculate many aspects of a genetic sequence, such as the
-// frequency of certain letters, lengths, number of sequences, and
-// most common letters (nucleotides).
-// 2. Why did you choose arrays vs ArrayLists? In other words, what are the
-//    differences and how did you take those into account?
-// I chose to use arrays for the input and storage of DNA sequences due to their fixed
-// size nature, this is appropriate since the number of sequences is defined by the user
-// input and is constant during processing.
-// 3. How did you decide which test cases to create?
-// I considered many possible scenarios when making my test cases and made sure all of
-// the scenarios were covered. I covered basic functionality, lack of input, a lot of input,
-// varied inputs, and other errors.
-// 4. What did you learn from this assignment:
-// In this assignment I learned how to incorporate biological concepts into computer programing
-// and how to implement genetic concepts. I learned about arrays and handling as well as testing.
-//
-/////////////////////////////// 80 COLUMNS WIDE ////////////////////////////////
 import java.util.List;
 import java.util.ArrayList;
 import java.util.Map;
