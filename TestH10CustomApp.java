@@ -1,18 +1,3 @@
-///////////////////////// TOP OF FILE COMMENT BLOCK ////////////////////////////
-//
-// Title:           Test Cases for Genetic Sequence Analysis
-// Course:          CS 200, Summer 2024
-//
-// Author:          Ajay Shenoy
-// Email:           ashenoy3@wisc.edu
-// Lecturer's Name: Jim Williams
-//
-///////////////////////////////// CITATIONS ////////////////////////////////////
-//
-// No citations used.
-//
-/////////////////////////////// 80 COLUMNS WIDE ////////////////////////////////
-
 import java.util.List;
 import java.util.ArrayList;
 import java.util.Map;
